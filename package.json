@@ -1,0 +1,8 @@
+{
+  "name": "ttrace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielTimLee/ttrace.git",
+  "author": "Daniel T. Lee <danieltimlee@gmail.com>",
+  "license": "MIT"
+}
